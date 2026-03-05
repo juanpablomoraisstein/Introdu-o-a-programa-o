@@ -1,1 +1,8 @@
 trabalho-introducao-programacao
+programa
+{
+    funcao inicio()
+    {
+        escreva("Ola Mundo")
+    }
+}
